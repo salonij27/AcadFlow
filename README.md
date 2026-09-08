@@ -32,3 +32,6 @@ Since this project utilizes a zero-backend architecture, getting it running is i
 1. Clone the repository:
    ```bash
    git clone [https://github.com/salonij27/AcadFlow.git](https://github.com/salonij27/AcadFlow.git)
+
+   Regards,
+Team CodeX99
