@@ -21,7 +21,7 @@ Students often miss deadlines because assignments are scattered across different
 
 ## 👥 Meet the Team
 *   **Roshan Chavhan** — Team Leader
-*   **Nishant Sandiprao Walse** — Member
+*   **Nishant Walse** — Member
 *   **Saloni Jaiswal** — Member
 *   **Dhanashri Hulhule** — Member
 
